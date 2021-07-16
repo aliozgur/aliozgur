@@ -22,7 +22,7 @@ I'm an organized, diciplined, self motivated and productive person. During my pr
 
 # My Projects
 
-This page is intended to provide some background and details for couple of projects I was involved with during my professional career. 
+This section is intended to provide some background and details for couple of projects I was involved with during my professional career. 
 I think these projects, among many others, helped me shape my software development skills. 
 
 If you want to see all the projects I was involved with [please visit my LinkedIn profile](http://linkedin.com/in/aliozgur)
