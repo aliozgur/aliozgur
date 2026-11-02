@@ -11,7 +11,7 @@ I studied Computer Engineering at Istanbul Technical University and hold an MBA 
 
 ## Books
 
-- 📘 **[Kodun Ötesi](https://kodunotesi.github.io/book/01-onsoz/)** (2026, Turkish): why the gap between software teams and the rest of the organization keeps showing up, read as a system-design problem rather than a people problem. Free to read online.
+- **[Kodun Ötesi](https://kodunotesi.github.io/book/01-onsoz/)** (2026, Turkish): why the gap between software teams and the rest of the organization keeps showing up, read as a system-design problem rather than a people problem. Free to read online.
 - **[Git ile Versiyon Kontrolü](https://www.dikeyeksen.com/products/git-ile-versiyon-kontrolu)** (Turkish, print)
 - **[F# ile Fonksiyonel Programlama](https://www.dikeyeksen.com/products/f-ile-fonksiyonel-programlama)** (Turkish, print)
 - **Git 101** (Turkish, open source): [Read online](https://aliozgur.gitbook.io/git101/) · [Download PDF](https://www.dropbox.com/s/947k3c4rvid0drr/aliozgur_git101_book.pdf?dl=0)
