@@ -1,4 +1,4 @@
-Hi, I'm Ali Özgür, an engineering leader who still writes code. I've been building software for more than 20+ years, and leading the teams that build it for most of them.
+Hi, I'm Ali Özgür, an engineering leader who still writes code. I've been building software for more than 20 years, and leading the teams that build it for most of them.
 
 I studied Computer Engineering at Istanbul Technical University and hold an MBA from Istanbul Bilgi University.
 
